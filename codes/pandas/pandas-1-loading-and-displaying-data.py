@@ -15,5 +15,5 @@ print(df.head(n))
 # Print Last n Rows
 print(df.tail(n))
 
-# Get One Particular Cell Value
-# print(df[0]["diab_pred"])
+# Get One Particular Cell Value [col][row]
+print(df["age"][1])

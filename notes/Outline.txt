@@ -51,6 +51,14 @@ scikit-learn - Algorithms, Processing, Evaluation
     source env/bin/activate
 3. Install pandas
     pip install pandas
+4. Refer codes/pandas/pandas-1...py
+5. Run code
+    python pandas-1....py
+
+ Using matplotlib
+---------------------
+1.  Install matplotlib
     pip install matplotlib
-    pip install numpy
-    
+2. Refer codes/matplotlib/matplotlib-1...py
+3. Run Code
+    pythonw matplotlib-1....py
