@@ -41,6 +41,9 @@ scikit-learn - Algorithms, Processing, Evaluation
 
     PANDS DATAFRAMES is the framework for this task.
 
+3.  Split Given Labelled Data Set into Training and Test Data.
+
+    Sci-Kit Learn is the framework that helps us with this task.
 
 
   Using pandas
@@ -62,3 +65,12 @@ scikit-learn - Algorithms, Processing, Evaluation
 2. Refer codes/matplotlib/matplotlib-1...py
 3. Run Code
     pythonw matplotlib-1....py
+
+
+scikit-learn contains Algorithms
+----------------------------------
+Classification
+    - Naive Bayes
+    - Logistic Regression
+    - Decision Tree
+
