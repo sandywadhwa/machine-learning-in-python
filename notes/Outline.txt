@@ -32,3 +32,25 @@ scikit-learn - Algorithms, Processing, Evaluation
 3.  Select Algorithm.
 4.  Train Model.
 5.  Test the Model.
+
+
+ So What All Should I learn in Prepare Data?
+---------------------------------------------
+1.  Establishing What Columns of given data have impact on decision making.
+2.  Reformating data, It's never going to be in format in give so we should know how to reformat it.
+
+    PANDS DATAFRAMES is the framework for this task.
+
+
+
+  Using pandas
+----------------
+1. Create virtualenv 
+    virtualenv -p python3 env
+2. Source it
+    source env/bin/activate
+3. Install pandas
+    pip install pandas
+    pip install matplotlib
+    pip install numpy
+    
