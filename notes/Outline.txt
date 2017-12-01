@@ -1,0 +1,34 @@
+Pre-Requisites
+---------------
+Installing Python and pip
+Learn to Code in Python - Functions, Variables, Conditionals, Loops, Collections
+Learn about pip
+Learn about VirtualEnv
+Python 2.7 vs 3.5
+
+ Jupyter
+---------
+Install Jupyter
+    pip install jupyter
+
+Open Jupyter Notebook
+    jupyter notebook
+
+Create Jupyter Notebook
+
+
+ Python Modules
+-----------------
+numpy - Scientific Computing
+pandas - Handling Data Frames
+matplotlib - 2D Plotting
+scikit-learn - Algorithms, Processing, Evaluation
+
+
+ Machine Learning Process
+--------------------------
+1.  Frame the Question Correctly.
+2.  Prepare Data.
+3.  Select Algorithm.
+4.  Train Model.
+5.  Test the Model.
